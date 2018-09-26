@@ -1,0 +1,13 @@
+language: go
+go:
+  - 1.7.x
+  - 1.8.x
+  - 1.9.x
+  - 1.10.x
+  - 1.11.x
+
+install:
+  - sudo apt-get install expect
+
+script:
+  - ./ci_run.sh
