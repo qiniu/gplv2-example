@@ -1,0 +1,1 @@
+# 《Go语言编程》第二版代码 [![Build Status](https://travis-ci.com/qiniu/gplv2-example.svg?branch=master)](https://travis-ci.com/qiniu/gplv2-example)
