@@ -1,2 +1,2 @@
 #/bin/bash
-cd ch_01 && ./expect.ex
+cd ch_01 && ./expect.ex && go test ./fleet -v
